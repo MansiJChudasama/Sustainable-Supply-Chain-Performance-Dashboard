@@ -1,7 +1,7 @@
 # Sustainable-Supply-Chain-Performance-Dashboard
 The Sustainable Supply Chain Performance Dashboard is an interactive, data-driven visualization tool designed to optimize and monitor key metrics related to sustainability, manufacturing, inventory, and supply chain logistics. Built using Power BI, this dashboard integrates multiple datasets to provide actionable insights for supply chain efficiency, cost reduction, and sustainability compliance.
 
-#Key Features
+-Key Features
 1.Comprehensive Data Visualization
 Interactive charts, graphs, and KPIs for real-time monitoring
 Dynamic filtering by Product Type, SKU, Routes, and Customer Demographics
